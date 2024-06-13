@@ -11,4 +11,3 @@ Half of the value is in the planning and how you work - it is not just about jus
 - A project board that shows really good planning.
 - A clean commit history.
   
-![Soc-Pre-bootcamp Warm-up](https://github.com/mdisumma/Soc-Pre-bootcamp-Warm-up/assets/69967922/f04566df-706c-49a0-9bbd-05b3b5906bbb)
