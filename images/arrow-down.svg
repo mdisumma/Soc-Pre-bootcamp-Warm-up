@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <image width="24" height="24" transform="scale(.5)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAMBJREFUSEvtlLENBCEMBH1F0Q8x1AMx/VAQ4b98Eif+MPYSfAaxdwcvxldr7UN/PNcBWOmeiKyEaIqo1krOOVMoFUjaH0BKiXLOFEKgGOMWZKV9AL2gu+5ANO0N4Na899ONEcjbvJuUUu6olx0gnazMx4uJb/BuReoEMWefaYoQIVLTLyn+ZM2AhTxpSJdiB124gkizqw2DuosQiDVp5rLTIJa5GtEYhQRBzGHA+C78KXmNoPvKjGhrIQnFB2Am+AWmWNJ57NZY9wAAAABJRU5ErkJggg=="/>
+  <path class="cls-1" d="M5.97,9.75c-.19,0-.39-.04-.58-.12l-.18-.08L1.01,5.29l1.42-1.4,3.54,3.59,3.73-3.65,1.4,1.43-4.22,4.13c-.24.24-.56.36-.91.36ZM5.48,7.96h0s0,0,0,0Z"/>
+</svg>
