@@ -6,7 +6,7 @@ body {
   font-family: Cereal, Circular, -apple-system, BlinkMacSystemFont, Roboto,
     Helvetica Neue, sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: rgb(231, 231, 231);
+  background-color: rgb(247, 247, 247);
 }
 button {
   border: none;
@@ -68,7 +68,7 @@ nav a {
 
 .learn-more {
   height: 54px;
-  background-color: rgb(231, 231, 231);
+  background-color: rgb(231, 231, 226);
 }
 .learn-more button {
   border: none;
@@ -165,11 +165,15 @@ nav a {
 .where-to-icon {
   opacity: 0.6;
 }
+
+/* Cards */
+
 .cards {
   display: grid;
   grid-template-columns: 327px;
   padding: 24px;
   background-color: rgb(255, 255, 255);
+  margin-bottom: 32px;
 }
 .card {
   position: relative;
@@ -234,10 +238,12 @@ nav a {
   font-weight: 600;
   color: rgb(34, 34, 34);
 }
+
+/* Inspiration */
+
 .inspiration {
   position: relative;
-  padding: 48px 24px;
-  background-color: rgb(247, 247, 247);
+  padding: 24px 24px 48px 24px;
 }
 .inspiration h2 {
   font-size: 22px;
@@ -341,7 +347,6 @@ hr {
 footer {
   padding: 0 24px 24px 24px;
   font-size: 14px;
-  background-color: rgb(247, 247, 247);
 }
 
 .sitemap {
